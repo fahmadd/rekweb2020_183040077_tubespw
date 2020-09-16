@@ -1,0 +1,19 @@
+1. Tema project
+2. Tingkat kesulitan
+3. Judul project
+4. Nama & NRP
+5. Daftar-Fitur yang sudah dikerjakan
+6. Daftar-Fitur yang akan tersedia
+7. Kesulitan dan pengalaman sampai saat ini (Harap isikan minimal 2 paragraf).
+
+Jawaban
+1.Blog / Sharing / Informasi
+2. Sementara baru easy, tapi akan mencoba hasil yang terbaik yaitu hard
+3.List Film yang disarankan untuk ditonton
+4.
+Nama : Fikri Ahmad Fauzi
+Nrp : 183040077
+5. Hampir semua fitur yang ada di dalam tingkat kesulitan EASY, sudah dikerjakan
+6. ajax , relasi antar tabel dan lain lain , atau semaximal mungkin
+7. kesulitannya terkadang ada beberapa fungsi yang berjalan dengan baik, tetapi sewaktu waktu tiba tiba tidak bisa digunakan. misal nya,
+saya mencoba mengubah data film, di film pertama bisa diubah, namun di film kedua tidak bisa, sampai sekarang saya tidak mengerti kenapa bisa begitu
